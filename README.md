@@ -1,7 +1,7 @@
 # Probabilistic-AI-for-Autonomous-Decision-Making-in-Uncertainty-Rich-Environments
 
 ### Project Overview:
-The proposed project focuses on developing Probabilistic AI systems that enable autonomous decision-making in environments filled with uncertainty. The core idea is to create an AI framework that incorporates uncertainty-aware model building and simulation-based inference for verifiable and interpretable decision-making. This system could be applied in various real-world scenarios like autonomous driving, financial modeling, or healthcare decision systems, where actions must be made under uncertain conditions.
+This project focuses on developing Probabilistic AI systems that enable autonomous decision-making in environments filled with uncertainty. The core idea is to create an AI framework that incorporates uncertainty-aware model building and simulation-based inference for verifiable and interpretable decision-making. This system could be applied in various real-world scenarios like autonomous driving, financial modeling, or healthcare decision systems, where actions must be made under uncertain conditions.
 
 ### Goal:
 The project aims to develop a data-efficient and privacy-preserving probabilistic AI system that enhances autonomous decision-making capabilities. The system will focus on efficiently handling uncertain and incomplete data while providing interpretable results that users and stakeholders can trust.
